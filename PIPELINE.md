@@ -1,7 +1,7 @@
 Stage: Parked
 Since: 2026-10-26
 Kind: mirror (upstream: btsouth/ratchet-clank-pc)
-Spec: upstream's   Roadmap: upstream's   Code map: none
+Spec: upstream's   Roadmap: upstream's   Code map: docs/code-map.md
 Platforms: linux
 Notes: Reference mirror, the kept copy of the pair (owner 2026-10-26 ruling "Keep the forks"); ratchet-clank is the superseded copy. Agent rules for our pipeline: AGENTS.fork.md; our history: CHANGELOG.fork.md.
 
